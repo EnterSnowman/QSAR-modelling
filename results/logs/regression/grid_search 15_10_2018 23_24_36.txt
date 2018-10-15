@@ -1,0 +1,55 @@
+number of features: 200
+Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+Score: 0.807600294459954
+
+
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
+Score: 0.7240772288888998
+
+
+ElasticNet(alpha=0.01, copy_X=True, fit_intercept=True, l1_ratio=0.2,
+      max_iter=1000, normalize=False, positive=False, precompute=False,
+      random_state=None, selection='cyclic', tol=0.0001, warm_start=False)
+Score: 0.8078106218790114
+
+
+Lasso(alpha=0.01, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)
+Score: 0.7958499259757328
+
+
+BayesianRidge(alpha_1=0.001, alpha_2=1e-06, compute_score=False, copy_X=True,
+       fit_intercept=True, lambda_1=1e-06, lambda_2=0.001, n_iter=300,
+       normalize=False, tol=0.001, verbose=False)
+Score: 0.7979523940724099
+
+
+RandomForestRegressor(bootstrap=True, criterion='mse', max_depth=None,
+           max_features='auto', max_leaf_nodes=None,
+           min_impurity_decrease=0.0, min_impurity_split=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=300, n_jobs=1,
+           oob_score=False, random_state=None, verbose=0, warm_start=False)
+Score: 0.7982355188958623
+
+
+GradientBoostingRegressor(alpha=0.9, criterion='friedman_mse', init=None,
+             learning_rate=0.1, loss='ls', max_depth=3, max_features=None,
+             max_leaf_nodes=None, min_impurity_decrease=0.0,
+             min_impurity_split=None, min_samples_leaf=1,
+             min_samples_split=2, min_weight_fraction_leaf=0.0,
+             n_estimators=1000, presort='auto', random_state=None,
+             subsample=1.0, verbose=0, warm_start=False)
+Score: 0.8333441097893058
+
+
+Best model: GradientBoostingRegressor(alpha=0.9, criterion='friedman_mse', init=None,
+             learning_rate=0.1, loss='ls', max_depth=3, max_features=None,
+             max_leaf_nodes=None, min_impurity_decrease=0.0,
+             min_impurity_split=None, min_samples_leaf=1,
+             min_samples_split=2, min_weight_fraction_leaf=0.0,
+             n_estimators=1000, presort='auto', random_state=None,
+             subsample=1.0, verbose=0, warm_start=False)
+Best score: 0.8333441097893058

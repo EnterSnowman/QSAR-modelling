@@ -1,0 +1,43 @@
+number of features: 50
+batch size: 64
+epochs: 50
+early stopping patience: 3
+
+Layers:[20, 20, 1]
+validation accuracy: 0.7267080745341615
+
+Layers:[40, 40, 1]
+validation accuracy: 0.7282608695652174
+
+Layers:[40, 20, 1]
+validation accuracy: 0.7204968944099379
+
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.7391304347826086
+
+Layers:[200, 200, 100, 1]
+validation accuracy: 0.687888198757764
+
+Layers:[50, 50, 1]
+validation accuracy: 0.7158385093167702
+
+Layers:[30, 20, 1]
+validation accuracy: 0.6677018633540373
+
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.7204968944099379
+
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.718944099378882
+
+Layers:[800, 400, 400, 1]
+validation accuracy: 0.7298136645962733
+
+Layers:[600, 600, 1]
+validation accuracy: 0.6863354037267081
+
+Layers:[300, 450, 350, 1]
+validation accuracy: 0.718944099378882
+
+Best val_acc: 0.7391304347826086
+Best params:[64, 50, [400, 20, 50, 1]]

@@ -1,0 +1,956 @@
+number of features: 30
+
+epochs: 10
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.6366459627329193
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6428571428571429
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.6164596273291926
+
+epochs: 15
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.6708074534161491
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.6801242236024845
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6583850931677019
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.6413043478260869
+
+epochs: 20
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.6645962732919255
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.6661490683229814
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6661490683229814
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.6180124223602484
+
+epochs: 25
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6739130434782609
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.656832298136646
+
+epochs: 30
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.6770186335403726
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.6677018633540373
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6599378881987578
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.6490683229813664
+
+epochs: 50
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6661490683229814
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.6521739130434783
+
+epochs: 100
+batch size: 32
+Layers:[20, 20, 1]
+validation accuracy: 0.6909937888198758
+
+batch size: 64
+Layers:[20, 20, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 128
+Layers:[20, 20, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 256
+Layers:[20, 20, 1]
+validation accuracy: 0.6940993788819876
+
+epochs: 10
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.6645962732919255
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.6506211180124224
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.6459627329192547
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6413043478260869
+
+epochs: 15
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.6490683229813664
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6475155279503105
+
+epochs: 20
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.6925465838509317
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6444099378881988
+
+epochs: 25
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.6739130434782609
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6754658385093167
+
+epochs: 30
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.6801242236024845
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6630434782608695
+
+epochs: 50
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.7003105590062112
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.6863354037267081
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6785714285714286
+
+epochs: 100
+batch size: 32
+Layers:[40, 40, 1]
+validation accuracy: 0.7003105590062112
+
+batch size: 64
+Layers:[40, 40, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 128
+Layers:[40, 40, 1]
+validation accuracy: 0.6925465838509317
+
+batch size: 256
+Layers:[40, 40, 1]
+validation accuracy: 0.6832298136645962
+
+epochs: 10
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.65527950310559
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6754658385093167
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.656832298136646
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.6537267080745341
+
+epochs: 15
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6599378881987578
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.6630434782608695
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.6428571428571429
+
+epochs: 20
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6739130434782609
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.6599378881987578
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.6692546583850931
+
+epochs: 25
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.6645962732919255
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.6645962732919255
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.65527950310559
+
+epochs: 30
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.6816770186335404
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6614906832298136
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.6909937888198758
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.6475155279503105
+
+epochs: 50
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.6925465838509317
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.7065217391304348
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.6956521739130435
+
+epochs: 100
+batch size: 32
+Layers:[40, 20, 1]
+validation accuracy: 0.7003105590062112
+
+batch size: 64
+Layers:[40, 20, 1]
+validation accuracy: 0.6940993788819876
+
+batch size: 128
+Layers:[40, 20, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 256
+Layers:[40, 20, 1]
+validation accuracy: 0.7065217391304348
+
+epochs: 10
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6987577639751553
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6645962732919255
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6599378881987578
+
+epochs: 15
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6863354037267081
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6925465838509317
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6816770186335404
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6909937888198758
+
+epochs: 20
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6863354037267081
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6801242236024845
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6801242236024845
+
+epochs: 25
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6987577639751553
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6863354037267081
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.7018633540372671
+
+epochs: 30
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6972049689440993
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6894409937888198
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.703416149068323
+
+epochs: 50
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.7096273291925466
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6770186335403726
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6832298136645962
+
+epochs: 100
+batch size: 32
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6614906832298136
+
+batch size: 64
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6863354037267081
+
+batch size: 128
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 256
+Layers:[400, 20, 50, 1]
+validation accuracy: 0.687888198757764
+
+epochs: 10
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.656832298136646
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6739130434782609
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.656832298136646
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6381987577639752
+
+epochs: 15
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6428571428571429
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.6692546583850931
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6630434782608695
+
+epochs: 20
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6692546583850931
+
+epochs: 25
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.6801242236024845
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.6630434782608695
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6739130434782609
+
+epochs: 30
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.6972049689440993
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6863354037267081
+
+epochs: 50
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.6972049689440993
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6801242236024845
+
+epochs: 100
+batch size: 32
+Layers:[50, 50, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 64
+Layers:[50, 50, 1]
+validation accuracy: 0.6925465838509317
+
+batch size: 128
+Layers:[50, 50, 1]
+validation accuracy: 0.6770186335403726
+
+batch size: 256
+Layers:[50, 50, 1]
+validation accuracy: 0.6785714285714286
+
+epochs: 10
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.65527950310559
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.6537267080745341
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.6490683229813664
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6350931677018633
+
+epochs: 15
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.6630434782608695
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.6537267080745341
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.6614906832298136
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6599378881987578
+
+epochs: 20
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.6614906832298136
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.6630434782608695
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6599378881987578
+
+epochs: 25
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.6770186335403726
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.6708074534161491
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.6599378881987578
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6521739130434783
+
+epochs: 30
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.65527950310559
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.6661490683229814
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6537267080745341
+
+epochs: 50
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.6770186335403726
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.7003105590062112
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.6832298136645962
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6614906832298136
+
+epochs: 100
+batch size: 32
+Layers:[30, 20, 1]
+validation accuracy: 0.7018633540372671
+
+batch size: 64
+Layers:[30, 20, 1]
+validation accuracy: 0.7142857142857143
+
+batch size: 128
+Layers:[30, 20, 1]
+validation accuracy: 0.7003105590062112
+
+batch size: 256
+Layers:[30, 20, 1]
+validation accuracy: 0.6847826086956522
+
+epochs: 10
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6987577639751553
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6537267080745341
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6645962732919255
+
+epochs: 15
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.7065217391304348
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6972049689440993
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6770186335403726
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6677018633540373
+
+epochs: 20
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6816770186335404
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6754658385093167
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6692546583850931
+
+epochs: 25
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6863354037267081
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6940993788819876
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6708074534161491
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6909937888198758
+
+epochs: 30
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.7018633540372671
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6739130434782609
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6894409937888198
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6739130434782609
+
+epochs: 50
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6661490683229814
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6863354037267081
+
+epochs: 100
+batch size: 32
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 64
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 128
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6987577639751553
+
+batch size: 256
+Layers:[50, 100, 50, 1]
+validation accuracy: 0.6987577639751553
+
+epochs: 10
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.65527950310559
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6801242236024845
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6614906832298136
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6319875776397516
+
+epochs: 15
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6754658385093167
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6630434782608695
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6677018633540373
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6708074534161491
+
+epochs: 20
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6785714285714286
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6956521739130435
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6692546583850931
+
+epochs: 25
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6816770186335404
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.687888198757764
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6785714285714286
+
+epochs: 30
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6940993788819876
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.672360248447205
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.703416149068323
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6785714285714286
+
+epochs: 50
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.7003105590062112
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.7080745341614907
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.7096273291925466
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6863354037267081
+
+epochs: 100
+batch size: 32
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6847826086956522
+
+batch size: 64
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6987577639751553
+
+batch size: 128
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6940993788819876
+
+batch size: 256
+Layers:[40, 40, 40, 1]
+validation accuracy: 0.6894409937888198
+
+Best val_acc: 0.7142857142857143
+Best params:[64, 100]
