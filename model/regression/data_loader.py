@@ -5,6 +5,7 @@ from sklearn.feature_selection import SelectKBest, chi2, f_classif, GenericUniva
 
 
 def get_data(train_dataset, test_dataset, number_of_important_features=5):
+    features = []
     # read data and drop na
     train = pd.read_csv(train_dataset)
     train.dropna(inplace=True)
@@ -25,7 +26,9 @@ def get_data(train_dataset, test_dataset, number_of_important_features=5):
     print(X_new.shape)
     print(selector.get_support(indices=True))
     indicies = selector.get_support(indices=True)
-
+    print(selector.scores_[indicies])
+    scores = selector.scores_[indicies]
+    features.extend(X_train.columns[indicies])
     X_train = X_train.iloc[:, indicies]
 
     X_test = test.drop(columns=[test.columns[0], 'SMILES', 'log(IGC50-1) {measured, converted}'])
@@ -34,5 +37,5 @@ def get_data(train_dataset, test_dataset, number_of_important_features=5):
     X_test = X_test.iloc[:, indicies]
     X_train, X_test, Y_train, Y_test = train_test_split(np.vstack((X_train.values, X_test.values)),
                                                         np.vstack((Y_train.values, Y_test.values)),
-                                                        test_size=0.1)
-    return X_train, Y_train.ravel(), X_test, Y_test.ravel()
+                                                        test_size=0.15)
+    return scores, indicies, features, X_train, Y_train.ravel(), X_test, Y_test.ravel()

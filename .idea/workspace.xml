@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e453b27-4b24-4c73-82c1-04d8c9cfc99c" name="Default" comment="" />
+    <list default="true" id="1e453b27-4b24-4c73-82c1-04d8c9cfc99c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/ames_classifier.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/toxicity_regressor.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/calculation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/saver_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/classification_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/classification_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/regression_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/regression_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_preprocess/preprocess_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocess/preprocess_classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_preprocess/preprocess_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocess/preprocess_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/classification/data_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/classification/data_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/classification/learning_params.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/classification/nn_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/classification/nn_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/classification/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/classification/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/regression/data_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/regression/data_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/regression/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/regression/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_42_56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_42_56_best_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +70,79 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="279267716">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="9" />
+          <entry key="png" value="1" />
+          <entry key="py" value="86" />
+          <entry key="txt" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="9" />
+          <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Python" value="76" />
+          <entry key="UML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3613" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="3613" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/regression/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+            <state relative-caret-position="793">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/classification/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding>
-                <element signature="e#0#48#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1542146849852" expanded="true" signature="3287:3565" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/logger.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_28_08.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_preprocess/preprocess_regression.py">
+        <entry file="file://$PROJECT_DIR$/model/classification/data_loader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1632">
-              <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="26" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -92,40 +151,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/regression/data_loader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/classification/data_loader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/classification/nn_train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="374">
+              <caret line="146" column="27" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="27" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
-                <marker date="1538410418361" expanded="true" signature="2655:3074" ph="..." />
+                <marker date="1542147109871" expanded="true" signature="7052:7759" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/classification/train.py">
+        <entry file="file://$PROJECT_DIR$/model/regression/data_loader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="538">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -156,31 +197,49 @@
       <find>NumAromaticRings</find>
       <find>VSA6</find>
       <find>7142857142857143</find>
+      <find>smil</find>
+      <find>np</find>
+      <find>show_important_features</find>
+      <find>save_as_mol</find>
+      <find>show_na</find>
+      <find>show_list_descriptors</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/analysis/regression_analysis.py" />
         <option value="$PROJECT_DIR$/data/classification/ames_challenge_train_all_descriptors.csv" />
-        <option value="$PROJECT_DIR$/analysis/classification_analysis.py" />
-        <option value="$PROJECT_DIR$/utils/logger.py" />
-        <option value="$PROJECT_DIR$/model/classification/learning_params.txt" />
         <option value="$PROJECT_DIR$/model/classification/list_of_architectures.txt" />
+        <option value="$PROJECT_DIR$/utils/saver_loader.py" />
+        <option value="$PROJECT_DIR$/utils/calculation.py" />
+        <option value="$PROJECT_DIR$/utils/logger.py" />
         <option value="$PROJECT_DIR$/model/regression/data_loader.py" />
-        <option value="$PROJECT_DIR$/model/classification/nn_train.py" />
-        <option value="$PROJECT_DIR$/model/classification/train.py" />
-        <option value="$PROJECT_DIR$/model/classification/data_loader.py" />
+        <option value="$PROJECT_DIR$/model/regression/train.py" />
+        <option value="$PROJECT_DIR$/ui/main.py" />
+        <option value="$PROJECT_DIR$/analysis/classification_analysis.py" />
+        <option value="$PROJECT_DIR$/analysis/regression_analysis.py" />
         <option value="$PROJECT_DIR$/data_preprocess/preprocess_classification.py" />
         <option value="$PROJECT_DIR$/data_preprocess/preprocess_regression.py" />
-        <option value="$PROJECT_DIR$/model/regression/train.py" />
+        <option value="$PROJECT_DIR$/model/classification/learning_params.txt" />
+        <option value="$PROJECT_DIR$/model/classification/data_loader.py" />
+        <option value="$PROJECT_DIR$/model/classification/train.py" />
+        <option value="$PROJECT_DIR$/model/classification/nn_train.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="983" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="90" />
+    <option name="width" value="985" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectView">
@@ -192,46 +251,35 @@
         <subPane>
           <expand>
             <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="QSAR-modelling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QSAR-modelling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="QSAR-modelling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QSAR-modelling" type="462c0819:PsiDirectoryNode" />
+              <item name="analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="QSAR-modelling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QSAR-modelling" type="462c0819:PsiDirectoryNode" />
               <item name="data_preprocess" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="QSAR-modelling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QSAR-modelling" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="QSAR-modelling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QSAR-modelling" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="classification" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
+              <item name="QSAR-modelling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QSAR-modelling" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Diploma" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diploma" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,11 +289,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Projects\Diploma\QSAR-modelling\analysis" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Projects\Diploma\QSAR-modelling\ui\mol" />
       <recent name="G:\Projects\Diploma\results\logs\classification" />
       <recent name="G:\Projects\Diploma\results" />
     </key>
@@ -262,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.train (1)">
+  <component name="RunManager" selected="Python.train">
     <configuration name="classification_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diploma" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,6 +328,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/classification_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -284,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nn_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diploma" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,11 +346,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/classification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/classification/nn_train.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +360,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="preprocess_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="preprocess_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diploma" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,7 +372,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/preprocess_regression.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/preprocess_classification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +382,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regression_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diploma" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,11 +390,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model/regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/regression/train.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis/regression_analysis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,6 +416,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/classification/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -369,19 +427,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.regression_analysis" />
       <item itemvalue="Python.classification_analysis" />
+      <item itemvalue="Python.preprocess_classification" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.train" />
-      <item itemvalue="Python.nn_train" />
-      <item itemvalue="Python.train (1)" />
-      <item itemvalue="Python.preprocess_regression" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.train (1)" />
-        <item itemvalue="Python.preprocess_regression" />
         <item itemvalue="Python.train" />
-        <item itemvalue="Python.nn_train" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.regression_analysis" />
         <item itemvalue="Python.classification_analysis" />
+        <item itemvalue="Python.preprocess_classification" />
       </list>
     </recent_temporary>
   </component>
@@ -399,15 +457,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32253802" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25100672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" visible="true" weight="0.18723404" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990086" weight="0.11914894" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,253 +473,291 @@
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009914" side_tool="true" weight="0.954416" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.3295302" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/envs/my-rdkit-env/Lib/site-packages/sklearn/linear_model/__init__.py">
+    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_43_34.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/regression/t_pyriformis_train.csv">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 22_10_2018 19_44_55.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/my-rdkit-env/Lib/site-packages/rdkit/Chem/Descriptors.py">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 22_10_2018 19_47_56.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 22_10_2018 23_14_05.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="408">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/classification/ames_challenge_train_all_descriptors_v3.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="289">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+    <entry file="file://$PROJECT_DIR$/utils/saver_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_28_37.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_42_56_best_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 22_10_2018 19_33_52.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 22_10_2018 19_36_27.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 22_10_2018 19_39_26.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/logs/classification/NN 21_09_2018 22_21_32.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/NN 21_09_2018 22_22_46.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/NN 21_09_2018 22_23_20.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/NN 21_09_2018 22_23_58.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/NN_21 09 2018 221732.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_34_05.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_30_19.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/Screenshot_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/Screenshot_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/Screenshot_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/Screenshot_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_42_56.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_44_17.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
+        <state relative-caret-position="-393" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_40_01.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_36_54.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 24_09_2018 00_49_57.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 24_09_2018 02_48_50.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_33_52.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
+        <state relative-caret-position="-417" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 18_05_27.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_47_11.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 25_09_2018 17_45_07.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/20_f.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/25_f.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/30_f.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 01_10_2018 19_15_11.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-347" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 01_10_2018 19_18_35.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_31_49.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 01_10_2018 19_22_59.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_29_48.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306" />
+        <state relative-caret-position="-393" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 20_56_26.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_28_01.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-381" />
+        <state relative-caret-position="-111" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 20_57_18.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_26_42.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-381" />
+        <state relative-caret-position="-393" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 20_58_00.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_41_14.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
+        <state relative-caret-position="-357" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 01_10_2018 19_16_17.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_38_40.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432" />
+        <state relative-caret-position="-441" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 01_10_2018 19_14_26.txt">
+    <entry file="file://$PROJECT_DIR$/results/logs/classification/grid_search 31_10_2018 20_36_13.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+        <state relative-caret-position="714">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_13_33.txt">
+    <entry file="file://$PROJECT_DIR$/utils/calculation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-601" />
+        <state relative-caret-position="544">
+          <caret line="77" column="47" lean-forward="true" selection-start-line="77" selection-start-column="47" selection-end-line="77" selection-end-column="47" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1761777090/rdkit/Chem/rdMolDescriptors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="320" column="4" selection-start-line="320" selection-start-column="4" selection-end-line="320" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/classification/ames_challenge_train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/classification/ames_challenge_test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/regression/t_pyriformis_test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/regression/t_pyriformis_train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/command.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1761777090/rdkit/Chem/rdDistGeom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1761777090/rdkit/Chem/rdmolops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" selection-start-line="37" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/analysis/classification_analysis.py" />
+    <entry file="file://$PROJECT_DIR$/analysis/classification_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/regression_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/analysis/regression_analysis.py" />
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/data_preprocess/preprocess_regression.py" />
+    <entry file="file://$PROJECT_DIR$/results/Screenshot_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/classification/learning_params.txt" />
+    <entry file="file://$PROJECT_DIR$/model/classification/list_of_architectures.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data_preprocess/preprocess_classification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="37" />
+        <state relative-caret-position="-187">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1542145230052" expanded="true" signature="208:261" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/data_preprocess/preprocess_classification.py" />
+    <entry file="file://$PROJECT_DIR$/data_preprocess/preprocess_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/classification/data_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_24_36.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_17_16.txt">
+    <entry file="file://$PROJECT_DIR$/model/classification/train.py___jb_tmp___" />
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/model/classification/data_loader.py" />
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/model/classification/train.py" />
+    <entry file="file://$PROJECT_DIR$/model/classification/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_14_57.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/my-rdkit-env/Lib/site-packages/pandas/core/frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="6210" selection-start-line="6210" selection-end-line="6210" />
+        <state relative-caret-position="317">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1542146849852" expanded="true" signature="3287:3565" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/regression/t_pyriformis_train_all_descriptors.csv">
+    <entry file="uml://Python/#G:/Projects/Diploma/QSAR-modelling/model/classification/nn_train.py" />
+    <entry file="file://$PROJECT_DIR$/model/classification/nn_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret column="133" selection-start-column="9" selection-end-column="133" />
+        <state relative-caret-position="374">
+          <caret line="146" column="27" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="27" />
+          <folding>
+            <marker date="1542147109871" expanded="true" signature="7052:7759" ph="..." />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs/regression/grid_search 15_10_2018 23_28_08.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/model/regression/data_loader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        <state relative-caret-position="538">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/regression/train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/logger.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/classification/data_loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/classification/nn_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-            <marker date="1538410418361" expanded="true" signature="2655:3074" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/classification/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_preprocess/preprocess_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="793">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>

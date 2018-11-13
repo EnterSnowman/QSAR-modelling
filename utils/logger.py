@@ -17,4 +17,16 @@ def save_log_lines(logs_folder, log_lines):
     f = open(str(logs_folder + "grid_search " + t.strftime("%d_%m_%Y %H_%M_%S")) + ".txt", "x")
     f.write('\n'.join(log_lines))
     f.close()
-    pass
+
+
+def save_important_features_in_list(features, folder, t):
+    f = open(str(folder + "/" + t + "_" + str(len(features))) + ".txt", "w")
+    f.write('\n'.join(features))
+    f.close()
+
+
+def get_important_features_from_list(name):
+    features_file = open(name, "r")
+    features = [a for a in features_file.read().splitlines()]
+    features_file.close()
+    return features
